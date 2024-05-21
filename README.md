@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amrit K. Banjade  
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Windows command prompt.  
+ 
 
 <!---
 holywater0814/holywater0814 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
