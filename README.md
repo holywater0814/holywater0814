@@ -2,7 +2,6 @@
 - 👀 I’m interested in Technology.
 - 🌱 I am currently learning C programming .
 - 💞️ I am into low level stuffs.
-- 
  
 
 <!---
