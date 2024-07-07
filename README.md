@@ -1,5 +1,8 @@
-- 👋 Hi, I’m Amrit K. Banjade  
-- 👀 I’m interested in Technology
+- 👋 Hi, I’m @holywater0814  .
+- 👀 I’m interested in Technology.
+- 🌱 I am currently learning C programming .
+- 💞️ I am into low level stuffs.
+- 
  
 
 <!---
